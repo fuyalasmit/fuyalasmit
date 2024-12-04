@@ -1,7 +1,6 @@
-
 <h1 align="center">Hi 👋, I'm Asmit Phuyal</h1>
 <h3 align="center">MERN Stack Developer from Nepal</h3>
-<img align="right" alt="coding image" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+<img align="right" alt="coding image" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuyalasmit&label=Profile%20views&color=23343e&style=plastic" alt="fuyalasmit" /> </p>
 
@@ -23,4 +22,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuyalasmit&show_icons=true&theme=dark&title_color=fcf8f8&text_color=fffafa&locale=en&layout=compact" alt="fuyalasmit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fuyalasmit&theme=dark" alt="fuyalasmit" /></p>
-
