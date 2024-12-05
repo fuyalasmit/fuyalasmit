@@ -18,7 +18,7 @@
 - 🌐 Portfolio: [**asmitphuyal.com.np**](https://asmitphuyal.com.np)
 - 💻 Projects: [**GitHub Repositories**](https://github.com/fuyalasmit?tab=repositories)
 - 📧 Reach me at: **asmitphuyal4040@gmail.com**
-<br>
+
 
 ## Connect with Me
 <p align="left">
