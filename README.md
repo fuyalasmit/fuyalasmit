@@ -29,61 +29,61 @@
 
 ## Languages and Tools:
 <p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.arduino.cc/" target="blank" >
     <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" />
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://getbootstrap.com" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" />
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.cprogramming.com/" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=c" alt="c" />
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.w3schools.com/cpp/" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.w3schools.com/css/" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=css" alt="css3" />
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://expressjs.com" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=express" alt="express" />
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.figma.com/" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=figma" alt="figma" />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://git-scm.com/" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=git" alt="git" />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.w3.org/html/" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=html" alt="html5" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.mongodb.com/" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" />
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer">
+  <a href="https://nodejs.org" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" />
   </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.photoshop.com/en" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=ps" alt="photoshop" />
   </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.postgresql.org" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" />
   </a>
-  <a href="https://postman.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://postman.com" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=postman" alt="postman" />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
+  <a href="https://reactjs.org/" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=react" alt="react" />
   </a>
-  <a href="https://redux.js.org" target="_blank" rel="noopener noreferrer">
+  <a href="https://redux.js.org" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=redux" alt="redux" />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://tailwindcss.com/" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.typescriptlang.org/" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" />
   </a>
 </p>
