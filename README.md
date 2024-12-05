@@ -88,6 +88,6 @@
   </a>
 </p>
 
-
+<hr/>
 <p align="center"> <img width=290 src="https://github-readme-stats.vercel.app/api/top-langs?username=fuyalasmit&show_icons=true&locale=en&layout=compact&border_radius=10&theme=tokyonight" alt="fuyalasmit" /> </p>
  <p align="center"> <img width=380 src="https://github-readme-streak-stats.herokuapp.com/?user=fuyalasmit&border_radius=10&theme=tokyonight" alt="fuyalasmit" /> </p>
