@@ -22,13 +22,13 @@
 
 ## Connect with Me
 <p align="left">
-  <a href="https://twitter.com/asmlogs" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/042/148/611/small/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" alt="asmlogs" height="70" width="70" /></a>
-  <a href="https://linkedin.com/in/fuyalasmit" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/016/716/470/non_2x/linkedin-icon-free-png.png" alt="fuyalasmit" height="52" width="52" /></a>
+  <a href="https://twitter.com/asmlogs" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/042/148/611/small/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" alt="asmlogs" height="76" width="76" /></a>
+  <a href="https://linkedin.com/in/fuyalasmit" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/016/716/470/non_2x/linkedin-icon-free-png.png" alt="fuyalasmit" height="50" width="50" /></a>
 </p>
 
 
 ## Languages and Tools:
-<p align="left">
+<p align="center">
   <a href="https://www.arduino.cc/" target="blank" >
     <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" />
   </a>
