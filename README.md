@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Asmit Phuyal</h1>
 <h3 align="center">MERN Stack Developer from Nepal</h3>
-<img align="right" alt="Coding GIF" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuyalasmit&label=Profile%20views&color=23343e&style=plastic" alt="fuyalasmit" /> </p>
+<img align="right" alt="Coding GIF"  width="250" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+
 
 
 - 🌐 Portfolio: [**asmitphuyal.com.np**](https://asmitphuyal.com.np)
