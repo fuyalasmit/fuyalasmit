@@ -1,7 +1,7 @@
  [//]: <> ( <h2 align="center">Hi 👋, I'm Asmit Phuyal</h2>)
  [//]: <> ( <h3 align="center">MERN Stack Developer from Nepal</h3> )
 
-![Github Asmit Banner](https://github.com/user-attachments/assets/2ce110ad-acad-46de-9e60-2eea0ff01fac)
+ [//]: <> ( ![Github Asmit Banner](https://github.com/user-attachments/assets/2ce110ad-acad-46de-9e60-2eea0ff01fac) )
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1600">
 
