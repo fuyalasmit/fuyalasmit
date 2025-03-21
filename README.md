@@ -29,17 +29,29 @@
 
 ## Languages and Tools:
 <p align="center">
-  <a href="https://www.arduino.cc/" target="blank" >
-    <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" />
-  </a>
-  <a href="https://getbootstrap.com" target="blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" />
-  </a>
   <a href="https://www.cprogramming.com/" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=c" alt="c" />
   </a>
   <a href="https://www.w3schools.com/cpp/" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" />
+  </a>
+   <a href="https://www.python.org/" target="blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=python" alt="typescript" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.arduino.cc/" target="blank">
+    <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" />
+  </a>
+  <a href="https://getbootstrap.com" target="blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" />
   </a>
   <a href="https://www.w3schools.com/css/" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=css" alt="css3" />
@@ -55,9 +67,6 @@
   </a>
   <a href="https://www.w3.org/html/" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=html" alt="html5" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" />
   </a>
   <a href="https://www.mongodb.com/" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" />
@@ -83,10 +92,8 @@
   <a href="https://tailwindcss.com/" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" />
-  </a>
 </p>
+
 
 <hr/>
 <p align="center"> <img width=290 src="https://github-readme-stats.vercel.app/api/top-langs?username=fuyalasmit&show_icons=true&locale=en&layout=compact&border_radius=10&theme=tokyonight" alt="fuyalasmit" /> </p>
