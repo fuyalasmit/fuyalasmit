@@ -22,7 +22,7 @@
 
 ## Connect with Me
 <p align="left">
-  <a href="https://twitter.com/fuyalasmit" target="blank"><img align="center" src="https://skills-icons.vercel.app/api/icons?i=x" alt="asmlogs" height="" width="" /></a>
+  <a href="https://x.com/fuyalasmit" target="blank"><img align="center" src="https://skills-icons.vercel.app/api/icons?i=x" alt="fuyalasmit" height="" width="" /></a>
   <a href="https://linkedin.com/in/fuyalasmit" target="blank"><img align="center" src="https://skills-icons.vercel.app/api/icons?i=linkedin" alt="fuyalasmit" height="" width="" /></a>
 </p>
 
