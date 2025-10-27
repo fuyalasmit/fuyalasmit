@@ -16,8 +16,7 @@
  [//]: <> ( <img align="right" alt="Coding GIF" width="150" src="https://github.com/user-attachments/assets/f26f8e99-89e2-46c9-b87e-9e5e4d42a03b"/>)
 
 - 🌐 Portfolio: [**asmitphuyal.com.np**](https://asmitphuyal.com.np)
-- 💻 Projects: [**GitHub Repositories**](https://github.com/fuyalasmit?tab=repositories)
-- 📧 Reach me at: **asmitphuyal4040@gmail.com**
+- 📧 Reach me at: **contact@asmitphuyal.com.np**
 
 
 ## Connect with Me
@@ -35,6 +34,7 @@
   <a href="https://www.w3schools.com/cpp/" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" />
   </a>
+ 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" />
   </a>
@@ -47,40 +47,54 @@
 </p>
 
 <p align="center">
-  <a href="https://www.arduino.cc/" target="blank">
-    <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" />
+  
+  <a href="https://html.spec.whatwg.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" alt="html" />
   </a>
-  <a href="https://html.spec.whatwg.org/" target="blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="bootstrap" />
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=css" alt="css" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" alt="css3" />
-  </a>
-  <a href="https://expressjs.com" target="blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=express" alt="express" />
-  </a>
-  <a href="https://git-scm.com/" target="blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="git" />
-  </a>
-  <a href="https://www.mongodb.com/" target="blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" />
-  </a>
-  <a href="https://nodejs.org" target="blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" />
-  </a>
-  <a href="https://postman.com" target="blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=postman" alt="postman" />
-  </a>
-  <a href="https://reactjs.org/" target="blank" rel="noopener noreferrer">
+  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=react" alt="react" />
   </a>
-  <a href="https://tailwindcss.com/" target="blank" rel="noopener noreferrer">
+  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" />
   </a>
-   <a href="https://www.docker.com/" target="blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=docker" alt="tailwind" />
+
+  
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" />
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=express" alt="express" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" />
+  </a>
+
+  
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" />
+  </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" />
+  </a>
+
+  
+  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=docker" alt="docker" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" alt="git" />
+  </a>
+  <a href="https://postman.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=postman" alt="postman" />
   </a>
 </p>
+
 
 
 <hr/>
