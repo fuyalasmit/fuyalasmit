@@ -34,20 +34,18 @@
   <a href="https://www.w3schools.com/cpp/" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" />
   </a>
- 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" />
   </a>
   <a href="https://www.typescriptlang.org/" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" />
   </a>
-   <a href="https://www.python.org/" target="blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" alt="typescript" />
+  <a href="https://www.python.org/" target="blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=python" alt="python" />
   </a>
 </p>
 
 <p align="center">
-  
   <a href="https://html.spec.whatwg.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=html" alt="html" />
   </a>
@@ -57,22 +55,21 @@
   <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=react" alt="react" />
   </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" />
+  </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" />
   </a>
+</p>
 
-  
+<p align="center">
   <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" />
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=express" alt="express" />
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" />
-  </a>
-
-  
   <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" />
   </a>
@@ -82,21 +79,40 @@
   <a href="https://www.prisma.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" />
   </a>
+</p>
 
-  
+<p align="center">
   <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=docker" alt="docker" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=git" alt="git" />
   </a>
+ <a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" />
+</a>
   <a href="https://postman.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=postman" alt="postman" />
+  </a>
+
+  <a href="https://nginx.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" />
+  </a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=githubactions" alt="github actions" />
   </a>
 </p>
 
 
 
+
+
+
 <hr/>
-<p align="center"> <img width=290 src="https://github-readme-stats.vercel.app/api/top-langs?username=fuyalasmit&show_icons=true&locale=en&layout=compact&border_radius=10&theme=tokyonight" alt="fuyalasmit" /> </p>
- <p align="center"> <img width=380 src="https://github-readme-streak-stats.herokuapp.com/?user=fuyalasmit&border_radius=10&theme=tokyonight" alt="fuyalasmit" /> </p>
+<p align="center">
+  <img width=290 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fuyalasmit&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img width=380 src="https://streak-stats.demolab.com/?user=fuyalasmit&theme=tokyonight&border_radius=10&cache_seconds=86400" />
+</p>
