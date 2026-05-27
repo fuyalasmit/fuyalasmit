@@ -12,6 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuyalasmit&label=Profile%20views&color=0e75b6&style=flat" alt="fuyalasmit" /> </p> 
 
 <img align="right" alt="Coding GIF" width="125" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+<br/>
 
  [//]: <> ( <img align="right" alt="Coding GIF" width="150" src="https://github.com/user-attachments/assets/f26f8e99-89e2-46c9-b87e-9e5e4d42a03b"/>)
 
