@@ -109,7 +109,9 @@
 
 
 
-<hr/>
+<!-- <hr/> -->
+
+<!--
 <p align="center">
   <img width=290 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fuyalasmit&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=86400" />
 </p>
@@ -117,3 +119,4 @@
 <p align="center">
   <img width=380 src="https://streak-stats.demolab.com/?user=fuyalasmit&theme=tokyonight&border_radius=10&cache_seconds=86400" />
 </p>
+-->
